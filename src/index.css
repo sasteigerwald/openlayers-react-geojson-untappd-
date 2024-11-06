@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+.ol-popup-content {
+  border: 1px solid rgba(242, 142, 28);
+  background-color: rgba(242, 142, 28, 0.6);
+  color: black;
+  border: 1;
+  font: 10px sans-serif;
+  padding: 5px;
+}
